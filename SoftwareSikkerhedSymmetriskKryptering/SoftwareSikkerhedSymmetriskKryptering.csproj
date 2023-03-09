@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AsymmetricManager.cs" />
     <Compile Include="ComboBoxHandler.cs" />
     <Compile Include="Encryption.cs" />
     <Compile Include="Form1.cs">
